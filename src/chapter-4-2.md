@@ -1,5 +1,3 @@
-Transactional Data
-====================================================================
 
 Transactional data is a critical component of any effective fraud detection program. In this chapter, we'll explore key considerations for collecting and analyzing transactional data to detect potential instances of fraud.
 

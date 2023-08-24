@@ -1,5 +1,3 @@
-Artificial Intelligence in Fraud Detection
-==========================================
 
 Artificial intelligence (AI) is revolutionizing the field of fraud detection, providing new and innovative ways to identify potential instances of financial crimes and misconduct. In this chapter, we'll explore the different types of AI used in fraud detection, their advantages and limitations, and case studies on their use.
 

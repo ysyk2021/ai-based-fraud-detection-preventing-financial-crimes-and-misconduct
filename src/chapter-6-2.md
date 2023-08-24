@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-=================================================================================
 
 As businesses increasingly turn to AI-based fraud detection techniques, it's critical to consider the regulatory and ethical implications of these technologies. In this chapter, we'll explore key considerations for implementing AI-based fraud detection, including regulatory compliance and ethical considerations related to privacy, bias, and transparency.
 

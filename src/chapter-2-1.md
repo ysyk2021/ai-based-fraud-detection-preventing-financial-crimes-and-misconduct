@@ -1,5 +1,3 @@
-Overview of Fraud Detection
-==========================================================
 
 Fraud detection is the process of identifying and preventing financial crimes and misconduct. In this chapter, we'll provide an overview of key concepts related to fraud detection.
 
@@ -39,5 +37,4 @@ Conclusion
 ----------
 
 Fraud detection is the process of identifying and preventing financial crimes and misconduct. Effective fraud detection requires a comprehensive understanding of the types of financial crimes and misconduct, as well as data collection and analysis, rule-based systems, anomaly detection, and machine learning. To be effective, fraud detection must also comply with applicable laws and regulations. As financial crimes and misconduct continue to evolve, businesses must continually refine and enhance their fraud detection processes and tools to stay ahead of emerging threats.
-
 

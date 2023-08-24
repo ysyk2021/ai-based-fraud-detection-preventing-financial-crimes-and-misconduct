@@ -1,5 +1,3 @@
-Implications for the Future of Preventing Financial Crimes and Misconduct
-===========================================================================================================
 
 The future of preventing financial crimes and misconduct is closely tied to the development and implementation of AI-based fraud detection systems. In this chapter, we'll explore some of the key implications for the future of preventing financial crimes and misconduct, as well as the challenges that businesses and organizations may face in implementing these systems.
 

@@ -1,5 +1,3 @@
-Future Directions and Challenges
-================================
 
 AI-based fraud detection systems are constantly evolving, with new technologies and approaches emerging all the time. In this chapter, we'll explore some of the emerging trends and technologies in AI-based fraud detection, as well as the opportunities and challenges associated with scaling up these systems.
 

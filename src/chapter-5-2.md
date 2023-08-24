@@ -1,5 +1,3 @@
-Anomaly Detection and Pattern Recognition
-=============================================================================================
 
 Anomaly detection and pattern recognition are two powerful AI-based fraud detection techniques that can help businesses identify potential instances of financial crimes and misconduct. In this chapter, we'll explore these techniques in more detail.
 

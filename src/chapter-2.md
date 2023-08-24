@@ -1,5 +1,3 @@
-Understanding Fraud Detection
-=============================
 
 Fraud detection is a critical component of preventing financial crimes and misconduct. In this chapter, we'll explore the basics of fraud detection, traditional approaches to detecting fraud, and some of the limitations and challenges associated with these approaches.
 

@@ -1,5 +1,3 @@
-The Need for AI-Based Fraud Detection
-===================================================
 
 Financial crimes and misconduct, such as fraud, money laundering, and cybercrime, are significant threats to businesses and organizations around the world. These crimes can result in significant financial losses, reputational damage, and legal liabilities.
 

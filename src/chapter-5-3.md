@@ -1,5 +1,3 @@
-Network Analysis and Link Prediction
-========================================================================================
 
 Network analysis and link prediction are powerful AI-based fraud detection techniques that can help identify potential instances of financial crimes and misconduct. In this chapter, we'll explore these techniques in more detail.
 

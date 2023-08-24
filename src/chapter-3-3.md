@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Fraud Detection
-============================================================================================
 
 Artificial intelligence (AI) is revolutionizing the way that businesses and organizations approach fraud detection. In this chapter, we'll explore several case studies of how AI is being used to prevent financial crimes and misconduct.
 

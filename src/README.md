@@ -1,4 +1,3 @@
-# Introduction
 
 Financial crimes and misconduct continue to pose a significant threat to businesses, governments, and consumers worldwide. These crimes can take many forms, including money laundering, identity theft, embezzlement, and cyber fraud, among others.
 

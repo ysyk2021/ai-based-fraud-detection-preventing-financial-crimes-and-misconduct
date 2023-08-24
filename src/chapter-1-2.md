@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Applications in Finance
-=================================================================================
 
 Artificial intelligence (AI) is transforming the way that businesses and organizations approach finance and financial services. In this chapter, we'll provide an overview of AI and its applications in finance.
 

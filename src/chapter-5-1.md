@@ -1,5 +1,3 @@
-Overview of AI-Based Fraud Detection Techniques and Strategies
-==================================================================================================================
 
 AI-based fraud detection techniques and strategies are rapidly evolving, with new approaches emerging all the time. In this chapter, we'll provide an overview of some of the key AI-based fraud detection techniques and strategies that businesses can use to prevent financial crimes and misconduct.
 

@@ -1,5 +1,3 @@
-Integration with Fraud Detection Processes and Tools
-================================================================================================
 
 Integrating AI-based fraud detection techniques with existing fraud detection processes and tools is critical for maximizing their effectiveness. In this chapter, we'll explore key considerations for integrating AI-based fraud detection, including data integration, workflow automation, and collaboration between teams.
 

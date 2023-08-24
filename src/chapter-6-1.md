@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Fraud Detection
-=============================================================================================
 
 Implementing AI-based fraud detection requires careful planning and consideration of various factors, including data collection and analysis, regulatory compliance, and integration with existing fraud detection processes and tools. In this chapter, we'll provide an overview of key steps involved in implementing AI-based fraud detection.
 

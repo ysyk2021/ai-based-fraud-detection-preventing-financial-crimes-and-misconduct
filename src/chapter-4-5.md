@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-================================================================================
 
 Collecting and analyzing regulatory and compliance data is a critical component of effective fraud detection. In this chapter, we'll explore key considerations for collecting and analyzing regulatory and compliance data to detect potential instances of financial crimes and misconduct.
 

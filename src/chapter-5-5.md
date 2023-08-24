@@ -1,5 +1,3 @@
-Machine Learning and Predictive Analytics
-=============================================================================================
 
 Machine learning and predictive analytics are powerful tools for detecting potential instances of financial crimes and misconduct. In this chapter, we'll explore how businesses can leverage these techniques to prevent fraud.
 

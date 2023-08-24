@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Fraud Detection
-==============================================================================================================
 
 Data collection and analysis are essential components of any effective fraud detection program. In this chapter, we'll provide an overview of data collection and analysis techniques for fraud detection, including the types of data to collect and how to analyze that data.
 

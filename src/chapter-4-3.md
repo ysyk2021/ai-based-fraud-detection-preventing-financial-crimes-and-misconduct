@@ -1,5 +1,3 @@
-Customer Behavior Data
-========================================================================
 
 Collecting and analyzing customer behavior data is an essential component of any effective fraud detection program. In this chapter, we'll explore key considerations for collecting and analyzing customer behavior data to detect potential instances of fraud.
 

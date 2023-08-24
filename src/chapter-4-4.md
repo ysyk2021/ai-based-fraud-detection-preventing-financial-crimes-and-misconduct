@@ -1,5 +1,3 @@
-External Data Sources
-=======================================================================
 
 Collecting and analyzing external data sources is a critical component of effective fraud detection. In this chapter, we'll explore some of the key considerations for collecting and analyzing external data sources to detect potential instances of financial crimes and misconduct.
 

@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-==================================================================================
 
 Implementing AI-based fraud detection requires careful consideration of business models and cost-effectiveness. In this chapter, we'll explore key considerations for developing a sustainable business model for AI-based fraud detection.
 

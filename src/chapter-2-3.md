@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-===================================================================================
 
 Traditional approaches to fraud detection have limitations and challenges that can impact their effectiveness. In this chapter, we'll explore some of the key limitations and challenges of traditional approaches to fraud detection.
 

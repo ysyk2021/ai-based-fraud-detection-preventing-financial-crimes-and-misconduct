@@ -1,5 +1,3 @@
-Objectives of the Book
-==================================================
 
 Financial crimes and misconduct pose significant risks to businesses and consumers alike. AI-based fraud detection systems have emerged as a powerful tool for preventing and detecting these crimes, but implementing these systems can be complex and challenging.
 

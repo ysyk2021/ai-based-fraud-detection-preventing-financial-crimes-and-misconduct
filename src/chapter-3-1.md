@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Fraud Detection
-======================================================================================================================
 
 Artificial intelligence (AI) is a powerful tool for preventing financial crimes and misconduct. In this chapter, we'll explore the different types of AI and their applications in fraud detection.
 

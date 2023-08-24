@@ -1,5 +1,3 @@
-Employee Education and Engagement
-=============================================================================
 
 Employee education and engagement are critical components of implementing AI-based fraud detection. In this chapter, we'll explore key considerations for educating and engaging employees to effectively leverage AI-based fraud detection.
 

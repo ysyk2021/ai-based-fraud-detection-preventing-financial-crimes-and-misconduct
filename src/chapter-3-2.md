@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Fraud Detection
-===============================================================================================
 
 Artificial intelligence (AI) is revolutionizing the way that businesses and organizations approach fraud detection. In this chapter, we'll explore the advantages and limitations of AI-based fraud detection systems.
 

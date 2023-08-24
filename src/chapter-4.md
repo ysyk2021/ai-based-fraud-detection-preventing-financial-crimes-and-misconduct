@@ -1,5 +1,3 @@
-Data Collection and Analysis for Fraud Detection
-================================================
 
 Data collection and analysis are critical components of AI-based fraud detection systems. In this chapter, we'll explore the types of data that businesses can collect and analyze to prevent financial crimes and misconduct.
 

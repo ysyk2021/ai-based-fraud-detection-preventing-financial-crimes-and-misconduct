@@ -1,5 +1,3 @@
-Traditional Approaches to Fraud Detection
-========================================================================
 
 Traditional approaches to fraud detection have been used for decades by financial institutions and businesses. In this chapter, we'll explore some of the key traditional approaches to fraud detection.
 
