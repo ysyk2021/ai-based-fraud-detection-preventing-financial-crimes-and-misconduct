@@ -10,3 +10,7 @@ We'll also explore the different types of AI and their applications in fraud det
 Overall, this book is designed to provide businesses with a practical and useful guide to AI-based fraud detection, helping them to effectively prevent and detect financial crimes and misconduct. By adapting these techniques to their specific needs and priorities, businesses can stay one step ahead of potential fraudsters and protect themselves and their customers from harm.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
